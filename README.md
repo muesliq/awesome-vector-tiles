@@ -54,6 +54,7 @@ data into vector tiles that can be rendered dynamically.
 * [esri-gl](https://github.com/muimsd/esri-gl) - A module for using Esri services in Mapbox GL JS or MapLibre GL JS, an alternative to esri-leaflet for WebGL.
 * [deckGl](https://deck.gl/docs/api-reference/geo-layers/mvt-layer) - WebGL-powered framework for visual exploratory data analysis of large datasets
 * [iTowns](https://github.com/iTowns/itowns) - Three.js based JavaScript library for visualizing 2D vector, raster and 3D geospatial data.
+* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) - A Metal-rendered Mapbox Vector Tile map engine for SwiftUI with a 3D globe and flat map, for iOS and macOS.
 
 ## Applications / Command line tools
 
