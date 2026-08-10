@@ -120,9 +120,12 @@ data into vector tiles that can be rendered dynamically.
 - [Hastile](https://github.com/indicatrix/hastile) - Haskell web server using PostGIS to deliver vector tiles.
 - [Kartotherian](https://github.com/kartotherian/kartotherian) Wikipedia tile server with [Tilerator](https://github.com/kartotherian/tilerator) backend tile pre-generator
 - [LOD](https://github.com/tile-fund/lod) - A thin map tile proxy with in-memory caching and a slim authentication backend.
+- [MapAtlas](https://mapatlas.eu) - REST API serving MVT vector tiles along with geocoding, routing, isochrone, and map matching services, built on OpenStreetMap and proprietary data.
+- [Maptoolkit.org](https://github.com/maptoolkit/maptoolkit.org) - free REST API serving MVT vector tiles
 - [MapServer](https://mapserver.org/) - Open Source platform, written in C, for publishing spatial data and interactive mapping applications to the web. MVT output available since version 7.2
 - [martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server written in Rust. Support for tile copying, diffing and updating.
 - [mbtileserver](https://github.com/consbio/mbtileserver) - A simple Go-based server for map tiles stored in mbtiles format.
+- [MVT Server](https://github.com/mvt-proj/mvt-rs) - One platform for publishing cartographic resources from PostGIS (developed in Rust).
 - [OpenMapTiles](https://github.com/openmaptiles) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK.
 - [OSM Scout Server](https://rinigus.github.io/osmscout-server/) - Maps server providing vector and raster tiles, geocoder, and router. Designed to be used on Linux (mobile and PC) to provide offline maps; written in C++
 - [pgsql-omt-schema](https://github.com/feludwig/pgsql-omt-schema) - A set of templated SQL functions to serve OpenMapTiles [schema](https://openmaptiles.org/schema/) vector tiles from a PostgreSQL database
@@ -146,8 +149,6 @@ data into vector tiles that can be rendered dynamically.
 - [TiMVT](https://github.com/developmentseed/timvt) - A lightweight PostGIS based dynamic vector tile server.
 - [Vallaris Maps](https://vallarismaps.com) - Mapping Platforms to storage process and services GIS Data. Provide DataService API and Maps API (Vector Tiles, WMS, WMTS) Compilance in OGC API Standards.
 - [Quarkus MVT Tile Server](https://gitlab.com/sigeosrl/quarkus-mvt-tile-server) - A Quarkus application that serves Mapbox Vector Tiles from PostGIS databases.
-- [MVT Server](https://github.com/mvt-proj/mvt-rs) - One platform for publishing cartographic resources from PostGIS (developed in Rust).
-- [MapAtlas](https://mapatlas.eu) - REST API serving MVT vector tiles along with geocoding, routing, isochrone, and map matching services, built on OpenStreetMap and proprietary data.
 
 ## Low-level utilities
 
